@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					28DE0FA31DC1EF8100F0B499 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 456564KGM3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 456564KGM3;
 				INFOPLIST_FILE = NewFoodPin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = IJI.NewFoodPin;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 456564KGM3;
 				INFOPLIST_FILE = NewFoodPin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = IJI.NewFoodPin;
@@ -301,6 +304,7 @@
 				28DE0FB81DC1EF8100F0B499 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

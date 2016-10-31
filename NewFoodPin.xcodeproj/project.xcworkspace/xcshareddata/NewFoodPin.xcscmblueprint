@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "683ADC9C64565405FDD1A358631BEA2AD73E06F5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05336D6C894B48E8F1CCDAB41B262191F18E4E2C" : 9223372036854775807,
+    "683ADC9C64565405FDD1A358631BEA2AD73E06F5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4BC611B-3CEC-4C93-81ED-10556B9E503C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05336D6C894B48E8F1CCDAB41B262191F18E4E2C" : "..",
+    "683ADC9C64565405FDD1A358631BEA2AD73E06F5" : "IOSRestaurant\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NewFoodPin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NewFoodPin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ENOW-IJI\/ENOW-server.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05336D6C894B48E8F1CCDAB41B262191F18E4E2C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/k920049\/IOSRestaurant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "683ADC9C64565405FDD1A358631BEA2AD73E06F5"
+    }
+  ]
+}
